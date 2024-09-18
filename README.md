@@ -4,7 +4,7 @@
 
 I am a junior web developer based in Lille, France. I'm looking for an internship to become a Software Engineer. I'm passionate about Web Development 🌐, Gaming 🎮, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
-- 📭 [Reach out](#hi-there-samujjwaal-here) for any question or if you're interesting in working with me
+- 📭 [Reach out](#bonjour-arthur-here) for any question or if you're interesting in working with me
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
 - 👾 Fun fact: Everything is open-source if you can read assembly
 
